@@ -1,4 +1,6 @@
 Prueba3_Gestion_Calificaciones
 
 
-Descomprimir el archivo
+-Script
+-Aplicación gestion de calificaciones
+-PDF
